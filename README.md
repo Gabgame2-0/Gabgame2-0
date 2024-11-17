@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabgame2-0
-- 👀 I’m interested in the code
+- 👀 I’m interested in the coding
 - 🌱 I’m currently learning C#
 - 💞️ I will be looking to collaborate with Mojang
 - 📫 How to reach me, my email is "djaodoamara@gmail.com" or my numero is "+33 616537577" but I speak in french

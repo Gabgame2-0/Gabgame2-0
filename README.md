@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabgame2-0
+- 👋 Hi, I’m Gabgame2.0
 - 👀 I’m interested in the coding
 - 🌱 I’m currently learning C#
 - 💞️ I will be looking to collaborate with Mojang
